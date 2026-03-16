@@ -20,6 +20,6 @@ Estudo Javascript, HTML e CSS a muito tempo e recentemente tenho aprendido Java 
 
 
 
-Como posso ser contatado? # 
+Como posso ser contatado? # <br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:ro19mail12@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin) 
